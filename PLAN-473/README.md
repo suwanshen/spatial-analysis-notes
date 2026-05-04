@@ -1,3 +1,4 @@
+### Teaching Materials
 # PLAN 473 – GIS in Community Planning
 
 This repository contains selected materials from PLAN 473 at the University of Hawaiʻi at Mānoa.
